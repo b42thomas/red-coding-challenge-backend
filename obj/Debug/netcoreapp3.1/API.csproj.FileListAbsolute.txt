@@ -1,0 +1,100 @@
+C:/BackendShell/ExampleCodeTest/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/BackendShell/ExampleCodeTest/bin/Debug/netcoreapp3.1/appsettings.json
+C:/BackendShell/ExampleCodeTest/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/BackendShell/ExampleCodeTest/bin/Debug/netcoreapp3.1/API.exe
+C:/BackendShell/ExampleCodeTest/bin/Debug/netcoreapp3.1/API.deps.json
+C:/BackendShell/ExampleCodeTest/bin/Debug/netcoreapp3.1/API.runtimeconfig.json
+C:/BackendShell/ExampleCodeTest/bin/Debug/netcoreapp3.1/API.runtimeconfig.dev.json
+C:/BackendShell/ExampleCodeTest/bin/Debug/netcoreapp3.1/API.dll
+C:/BackendShell/ExampleCodeTest/bin/Debug/netcoreapp3.1/API.pdb
+C:/BackendShell/ExampleCodeTest/obj/Debug/netcoreapp3.1/API.csprojAssemblyReference.cache
+C:/BackendShell/ExampleCodeTest/obj/Debug/netcoreapp3.1/API.AssemblyInfoInputs.cache
+C:/BackendShell/ExampleCodeTest/obj/Debug/netcoreapp3.1/API.AssemblyInfo.cs
+C:/BackendShell/ExampleCodeTest/obj/Debug/netcoreapp3.1/API.csproj.CoreCompileInputs.cache
+C:/BackendShell/ExampleCodeTest/obj/Debug/netcoreapp3.1/API.MvcApplicationPartsAssemblyInfo.cache
+C:/BackendShell/ExampleCodeTest/obj/Debug/netcoreapp3.1/API.RazorTargetAssemblyInfo.cache
+C:/BackendShell/ExampleCodeTest/obj/Debug/netcoreapp3.1/staticwebassets/API.StaticWebAssets.Manifest.cache
+C:/BackendShell/ExampleCodeTest/obj/Debug/netcoreapp3.1/staticwebassets/API.StaticWebAssets.xml
+C:/BackendShell/ExampleCodeTest/obj/Debug/netcoreapp3.1/API.dll
+C:/BackendShell/ExampleCodeTest/obj/Debug/netcoreapp3.1/API.pdb
+C:/BackendShell/ExampleCodeTest/obj/Debug/netcoreapp3.1/API.genruntimeconfig.cache
+C:/BackendShell/BackendShell/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/BackendShell/BackendShell/bin/Debug/netcoreapp3.1/appsettings.json
+C:/BackendShell/BackendShell/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/BackendShell/BackendShell/bin/Debug/netcoreapp3.1/API.exe
+C:/BackendShell/BackendShell/bin/Debug/netcoreapp3.1/API.deps.json
+C:/BackendShell/BackendShell/bin/Debug/netcoreapp3.1/API.runtimeconfig.json
+C:/BackendShell/BackendShell/bin/Debug/netcoreapp3.1/API.runtimeconfig.dev.json
+C:/BackendShell/BackendShell/bin/Debug/netcoreapp3.1/API.dll
+C:/BackendShell/BackendShell/bin/Debug/netcoreapp3.1/API.pdb
+C:/BackendShell/BackendShell/obj/Debug/netcoreapp3.1/API.csprojAssemblyReference.cache
+C:/BackendShell/BackendShell/obj/Debug/netcoreapp3.1/API.AssemblyInfoInputs.cache
+C:/BackendShell/BackendShell/obj/Debug/netcoreapp3.1/API.AssemblyInfo.cs
+C:/BackendShell/BackendShell/obj/Debug/netcoreapp3.1/API.csproj.CoreCompileInputs.cache
+C:/BackendShell/BackendShell/obj/Debug/netcoreapp3.1/API.MvcApplicationPartsAssemblyInfo.cache
+C:/BackendShell/BackendShell/obj/Debug/netcoreapp3.1/API.RazorTargetAssemblyInfo.cache
+C:/BackendShell/BackendShell/obj/Debug/netcoreapp3.1/staticwebassets/API.StaticWebAssets.Manifest.cache
+C:/BackendShell/BackendShell/obj/Debug/netcoreapp3.1/staticwebassets/API.StaticWebAssets.xml
+C:/BackendShell/BackendShell/obj/Debug/netcoreapp3.1/API.dll
+C:/BackendShell/BackendShell/obj/Debug/netcoreapp3.1/API.pdb
+C:/BackendShell/BackendShell/obj/Debug/netcoreapp3.1/API.genruntimeconfig.cache
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.exe
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.deps.json
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.runtimeconfig.json
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.runtimeconfig.dev.json
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.dll
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.pdb
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.csprojAssemblyReference.cache
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.AssemblyInfoInputs.cache
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.AssemblyInfo.cs
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.csproj.CoreCompileInputs.cache
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.RazorTargetAssemblyInfo.cache
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/staticwebassets/API.StaticWebAssets.Manifest.cache
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/staticwebassets/API.StaticWebAssets.xml
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.dll
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.pdb
+C:/Users/jmounts/Desktop/Fullstack Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.genruntimeconfig.cache
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.StaticWebAssets.xml
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.deps.json
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.runtimeconfig.json
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.runtimeconfig.dev.json
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.dll
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.pdb
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.csproj.AssemblyReference.cache
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.AssemblyInfoInputs.cache
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.AssemblyInfo.cs
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.csproj.CoreCompileInputs.cache
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/staticwebassets/API.StaticWebAssets.Manifest.cache
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.RazorTargetAssemblyInfo.cache
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.dll
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.pdb
+/Users/billythomas/Downloads/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.genruntimeconfig.cache
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.StaticWebAssets.xml
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.deps.json
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.runtimeconfig.json
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.runtimeconfig.dev.json
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.dll
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/bin/Debug/netcoreapp3.1/API.pdb
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.csproj.AssemblyReference.cache
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.AssemblyInfoInputs.cache
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.AssemblyInfo.cs
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.csproj.CoreCompileInputs.cache
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/staticwebassets/API.StaticWebAssets.Manifest.cache
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.RazorTargetAssemblyInfo.cache
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.dll
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.pdb
+/Users/billythomas/level-up/codingchallenges/RED Coding Challenge/Backend/BackendShell/obj/Debug/netcoreapp3.1/API.genruntimeconfig.cache
