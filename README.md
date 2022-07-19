@@ -1,5 +1,11 @@
 # red-coding-challenge-backend
 Backend for the RED Technologies coding challenge
+To run this application, make sure to have [dot net core 3.1 sdk installed on your machine](https://dotnet.microsoft.com/en-us/download/dotnet/3.1)
+Then
+```
+cd BackendShell
+dotnet run
+```
 
 ## PROJECT OVERVIEW:
 
